@@ -1,3 +1,0 @@
-C:/Users/kevin/source/repos/COMP371_all/COMP371_RaytracerBase/code/out/build/windows-default/CMakeFiles/raytracer.dir
-C:/Users/kevin/source/repos/COMP371_all/COMP371_RaytracerBase/code/out/build/windows-default/CMakeFiles/edit_cache.dir
-C:/Users/kevin/source/repos/COMP371_all/COMP371_RaytracerBase/code/out/build/windows-default/CMakeFiles/rebuild_cache.dir
