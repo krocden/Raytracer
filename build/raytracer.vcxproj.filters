@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\external\simpleppm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\external\test_eigen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\external\test_json.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\external\test_ppm.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\src\RayTracer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kevin\source\repos\COMP371_all\COMP371_RaytracerBase\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7C87984A-6F08-3ED0-8355-B8091B456D0E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

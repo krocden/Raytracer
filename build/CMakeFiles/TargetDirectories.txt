@@ -1,0 +1,3 @@
+C:/Users/kevin/source/repos/COMP371_all/COMP371_RaytracerBase/code/build/CMakeFiles/raytracer.dir
+C:/Users/kevin/source/repos/COMP371_all/COMP371_RaytracerBase/code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/kevin/source/repos/COMP371_all/COMP371_RaytracerBase/code/build/CMakeFiles/ZERO_CHECK.dir

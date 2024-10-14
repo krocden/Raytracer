@@ -1,0 +1,15 @@
+# ninja log v5
+8	742	6680753757528952	CMakeFiles/raytracer.dir/external/simpleppm.cpp.obj	6456c6b9fd5a7cfc
+14	1045	6680753760588967	CMakeFiles/raytracer.dir/external/test_eigen.cpp.obj	b8931f71ad6548f9
+18	1413	6680753764258938	CMakeFiles/raytracer.dir/external/test_ppm.cpp.obj	58db203965a48833
+11	1521	6680753765353960	CMakeFiles/raytracer.dir/external/test_json.cpp.obj	9e28dcd752be18b3
+1	1460	6693637252557341	CMakeFiles/raytracer.dir/main.cpp.obj	8bccfc233e04e4ce
+1405	1571	6693642460556776	raytracer.exe	e42384a207aef8e5
+1	1404	6693642459116782	CMakeFiles/raytracer.dir/src/RayTracer.cpp.obj	25cdf1d58e7dd8e3
+6	385	6700514308036676	CMakeFiles/raytracer.dir/external/simpleppm.cpp.obj	44b452b131afa5dd
+4	813	6700514312301692	CMakeFiles/raytracer.dir/external/test_eigen.cpp.obj	e6e941355de9f56f
+9	1101	6700514315206666	CMakeFiles/raytracer.dir/external/test_ppm.cpp.obj	ebccea6880697b3
+7	1471	6700514318871676	CMakeFiles/raytracer.dir/external/test_json.cpp.obj	9864d44b0930353d
+1	1571	6700514319876671	CMakeFiles/raytracer.dir/main.cpp.obj	599b7d05f0f1d4a6
+11	3606	6700514340146671	CMakeFiles/raytracer.dir/src/RayTracer.cpp.obj	8342210048045ff1
+3606	3803	6700514342226670	raytracer.exe	ade555c17e237aa5
